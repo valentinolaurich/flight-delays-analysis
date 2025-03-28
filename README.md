@@ -1,4 +1,4 @@
-# Flight Delays Analysis ✈️  
+# Flight Delays Analysis
 
 ## Project Overview  
 Airport arrival performance is significantly impacted by weather conditions, leading to flight delays and operational inefficiencies. This project explores patterns in flight delays and visualizes key insights using R.  

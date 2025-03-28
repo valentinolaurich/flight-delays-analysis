@@ -1,0 +1,22 @@
+Data Description
+
+Variable -- Description
+------------------------
+schedtime -- Scheduled time
+carrier -- Airline codes
+deptime -- Time of departure
+dest -- Destination of flight
+distance -- Travelling distance
+date -- Date of travel
+flightnum -- Flight number
+origin -- Airport codes
+
+weather	-- 0 – ontime
+        -- 1 - delayed	
+
+dayweek	-- 1 – Sunday and Monday
+        -- 1 -  for all other days
+
+daymonth -- Number of days in month
+tailnu -- Tail number of flight
+delay -- Delay status
